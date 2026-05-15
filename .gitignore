@@ -25,3 +25,6 @@
 .idea/*
 
 public/upload/*
+
+# Test coverage output.
+/coverage
